@@ -10,7 +10,7 @@
 <br>
 
 <!-- 방문자 수 고양이 배지 -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_ID&count_bg=%23FFB7B2&title_bg=%232A2D34&icon=github&icon_color=%23FFFFFF&title=Mew~🐾&edge_flat=false" alt="Hits"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frweincat&count_bg=%23FFB7B2&title_bg=%232A2D34&icon=github&icon_color=%23FFFFFF&title=Mew~🐾&edge_flat=false" alt="Hits"/>
 
 </div>
 
@@ -45,13 +45,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=catppuccin&hide_border=true&bg_color=ffffff00" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=catppuccin&hide_border=true&bg_color=ffffff00" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rweincat&show_icons=true&theme=catppuccin&hide_border=true&bg_color=ffffff00" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rweincat&layout=compact&theme=catppuccin&hide_border=true&bg_color=ffffff00" width="48%" />
 </div>
 
 <br>
 
 <!-- 하단 잔디밭에서 뛰노는 고양이 애니메이션 (커스텀 뷰어) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7B2&height=120&section=footer&text=🐾%20Have%20a%20purr-fect%20day!%20🐾&fontSize=22&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7B2&height=120&section=footer&text=🐾%20Have%20a%20purrfect%20day!%20🐾&fontSize=22&fontColor=ffffff" width="100%"/>
 </div>
