@@ -3,7 +3,12 @@
 <!-- 상단 움직이는 배너 이미지 (크기 50%로 축소) -->
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50%" />
 
-<br><br><br>
+<br><br>
+
+<!-- 🚩 강렬한 레드 컬러의 고양이 혁명 전광판 효과 (러시아어 & 한국어 교차) -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=%D0%9A%D0%BE%D1%82%D1%8B+%D0%B2%D1%81%D0%B5%D1%85+%D1%81%D1%82%D1%80%D0%B0%D0%BD%2C+%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D0%B9%D1%82%D0%B5%D1%81%D1%8C%21;%EA%B3%A0%EC%96%91%EC%9D%B4%EB%93%A4%EC%9D%B4%EC%97%AC%2C+%EB%8B%A8%EA%B2%B0%ED%95%98%EB%9D%BC%21" alt="Typing SVG" />
+
+<br><br>
 
 # 기획하고, 디자인하고... (가끔) 직접 구현합니다 ^_^
 
@@ -33,7 +38,7 @@
 <br>
 
 ### 💻 Development & Database
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=white"/>
 
 </div>
 
