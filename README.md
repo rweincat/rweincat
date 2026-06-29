@@ -15,7 +15,7 @@
 
 | 🇰🇷 한국어 | 🇷🇺 Русский | 🇺🇸 English | 🇯🇵 日本語 |
 | :---: | :---: | :---: | :---: |
-| ![KR](https://img.shields.io/badge/Native-FFB7B2?style=for-the-badge&logo=sharp&logoColor=white) | ![RU](https://img.shields.io/badge/Fluent-FFDAC1?style=for-the-badge&logo=sharp&logoColor=white) | ![EN](https://img.shields.io/badge/Advanced-E2F0CB?style=for-the-badge&logo=sharp&logoColor=white) | ![JP](https://img.shields.io/badge/少し-B5EAD7?style=for-the-badge&logo=sharp&logoColor=white) |
+| ![KR](https://img.shields.io/badge/Native-FFB7B2?style=for-the-badge&logo=sharp&logoColor=white) | ![RU](https://img.shields.io/badge/Fluent-FFDAC1?style=for-the-badge&logo=sharp&logoColor=white) | ![EN](https://img.shields.io/badge/Advanced-E2F0CB?style=for-the-badge&logo=sharp&logoColor=white) | ![JP](https://img.shields.io/badge/Little-B5EAD7?style=for-the-badge&logo=sharp&logoColor=white) |
 
 <br><br><br>
 
