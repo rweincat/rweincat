@@ -1,21 +1,21 @@
-<br><br><br>
+ <br><br><br>
 
-## 🐈 현재
+## 🐈 Currently
 
 ### **<img src="https://purrd.pet/favicon.png" width="28" height="28" style="vertical-align: middle; border-radius: 6px;"/> [purrd.pet](https://purrd.pet)**
-고양이와 집사를 위한 소셜 플랫폼을 만들고 있습니다!
+Building a social platform for cats and their humans!
 
 <br><br><br>
 
-## 🌐 언어 
+## 🌐 Languages
 
-| 🇰🇷 한국어 | 🇷🇺 Русский | 🇺🇸 English | 🇯🇵 日本語 |
-| :---: | :---: | :---: | :---: |
-| ![KR](https://img.shields.io/badge/Native-FFB7B2?style=for-the-badge&logo=sharp&logoColor=white) | ![RU](https://img.shields.io/badge/Fluent-FFDAC1?style=for-the-badge&logo=sharp&logoColor=white) | ![EN](https://img.shields.io/badge/Advanced-E2F0CB?style=for-the-badge&logo=sharp&logoColor=white) | ![JP](https://img.shields.io/badge/Little-B5EAD7?style=for-the-badge&logo=sharp&logoColor=white) |
+| 🇰🇷 Korean | 🇷🇺 Russian | 🇺🇸 English | 🇯🇵 Japanese | 🇨🇳 Chinese |
+| :---: | :---: | :---: | :---: | :---: |
+| ![KR](https://img.shields.io/badge-OK-FFB7B2?style=for-the-badge&logo=sharp&logoColor=white) | ![RU](https://img.shields.io/badge-OK-FFDAC1?style=for-the-badge&logo=sharp&logoColor=white) | ![EN](https://img.shields.io/badge-OK-E2F0CB?style=for-the-badge&logo=sharp&logoColor=white) | ![JP](https://img.shields.io/badge-OK-B5EAD7?style=for-the-badge&logo=sharp&logoColor=white) | ![CN](https://img.shields.io/badge-Little-C7CEEA?style=for-the-badge&logo=sharp&logoColor=white) |
 
 <br><br><br>
 
-## 🛠️ 기술 스택 & 툴 
+## 🛠️ Tech Stack & Tools
 
 ### 🎨 UI/UX & Design
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Brutalism%20Style-000000?style=flat-square&logo=probot&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 <br><br><br>
 
-<!-- 하단 잔디밭에서 뛰노는 고양이 애니메이션 (커스텀 뷰어) -->
+<!-- Cat animation playing in the grass at the bottom (custom viewer) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7B2&height=120&section=footer&text=🐾%20Have%20a%20purrfect%20day!%20🐾&fontSize=22&fontColor=ffffff" width="100%"/>
 </div>
